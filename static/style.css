@@ -1,0 +1,16 @@
+body {
+    background-color: #f0f8ff;
+    font-family: 'Segoe UI', sans-serif;
+}
+h1 {
+    color: #4682B4;
+}
+.btn-primary {
+    background-color: silver;
+    border-color: lightblue;
+    color: black;
+}
+select.form-select {
+    background-color: #e6f0ff;
+    border-color: lightblue;
+}
