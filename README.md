@@ -1,48 +1,28 @@
-# AI Voice Changer Web App
+# 🎙️ AI Voice Changer
 
-A Flask-based web application that lets users upload or record their voice and apply AI-style voice filters (deep, high-pitched, etc.) using pitch/speed changes.
+This is a free, browser-based voice changer that lets you upload or record your voice — and instantly hear it transformed into different styles.
 
-## 🎯 Features
-- 🎙️ Mic recording support
-- 📁 Audio upload
-- 🎚️ Voice presets (deep, medium, high for male/female)
+No downloads. No tech skills required. Just speak, select a voice preset, and hear the magic.
 
-## ⚙️ Setup Instructions
+## ✨ What It Can Do
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/voice_changer_app.git
-cd voice_changer_app
-```
+- 🎤 **Record or upload** your own voice
+- 🎚️ **Choose from 6 fun voice styles**:
+  - Deep Male Voice
+  - Medium Male Voice
+  - High Pitched Male Voice
+  - Deep Female Voice
+  - Medium Female Voice
+  - High Pitched Female Voice
+- 🔁 **Download your transformed voice**
+- 🧠 Powered by simple AI effects (pitch + speed)
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
+## 💻 Try It Yourself
 
-3. Install FFmpeg:
-- Windows: `choco install ffmpeg`
-- macOS: `brew install ffmpeg`
-- Linux: `sudo apt install ffmpeg`
+[Click here to visit the site →](https://pranavkkp4.github.io/voice-changer-app/)
 
-4. Run the app:
-```bash
-python app.py
-```
-
-Then open [http://localhost:5000](http://localhost:5000) in your browser.
-
-## 🌐 GitHub Deployment
-
-To turn this into a GitHub repo:
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/yourusername/voice_changer_app.git
-git push -u origin main
-```
-
-Be sure to create the repo on GitHub first and replace the URL with yours.
+No sign-up. No install. Just fun.
 
 ---
+
+Created by [Pranav Kumar Kaliaperumal](https://github.com/pranavkkp4)
